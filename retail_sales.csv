@@ -1,0 +1,11 @@
+Order Date,Product Name,Category,Sub-Category,Sales,Profit,Quantity,Region
+2023-01-05,Staples,Office Supplies,Supplies,20.99,6.29,3,West
+2023-01-10,Executive Chair,Furniture,Chairs,300.98,90.29,1,East
+2023-01-15,Wireless Mouse,Technology,Accessories,45.99,13.80,2,Central
+2023-02-02,Notebooks,Office Supplies,Paper,15.99,4.80,5,West
+2023-02-18,Monitor,Technology,Electronics,250.50,62.63,1,East
+2023-03-05,File Cabinet,Furniture,Storage,175.75,52.73,1,Central
+2023-03-20,Desk Lamp,Furniture,Lighting,65.99,19.80,1,West
+2023-04-12,Keyboard,Technology,Accessories,55.50,16.65,2,East
+2023-04-25,Binder Clips,Office Supplies,Supplies,12.99,3.90,10,Central
+2023-05-08,Desk,Furniture,Tables,450.00,90.00,1,West
